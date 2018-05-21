@@ -67,7 +67,7 @@ session_start();
             <a href="" class="btn">Selanjutnya....</a>
         </div>
         <div class="kanan">
-            <img src="img/web_design.png" alt="" width="60%">
+            <img src="web_design.png" alt="" width="60%">
         </div>
     </header>
     <!-- End of Header -->
